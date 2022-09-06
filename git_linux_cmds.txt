@@ -5,7 +5,7 @@ ls    --> to get to know all the files in the directory
 ls -a --> to know all the hidden files in the directory
 touch --> to touch create a new file in the directory
 vi (file_name_in_that_directory) --> to go into that file to change/edit anything
-* to exit from vi editior -> first press esc and then type -wq to save changes
+* to exit from vi editior -> first press esc and then type :wq to save changes
 cat (file_name_in_that_directory) --> to show file content
 
 
