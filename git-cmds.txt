@@ -1,0 +1,4 @@
+mkdir --> to make new directory/folder
+cd    --> to go to the directory
+ls    --> to get to know all the files in the directory
+ls -a --> to know all the hidden files in the directory
