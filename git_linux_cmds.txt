@@ -22,4 +22,7 @@ git reset [commit hash] --> to go back at that position of project when we commi
 git stash --> to add recently add . folder to git repository to backup room from where we get this code back without commiting changes
 git stash pop --> to load back the changes done by which we stashed to backup room
 git stash clear --> to delete/clear the stash backup room data
+git branch [branch_name]  --> to create a new branch
+git checkout [branch_name] --> to checkout/open that branch
+git merge [branch_name] --> to merge [branch_name] to current branch
 
