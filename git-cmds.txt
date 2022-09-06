@@ -1,5 +1,0 @@
-mkdir --> to make new directory/folder
-i changed this with linux commandls
---> to get to know all the files in the direcory
-this changed done by linux vi editior
-
