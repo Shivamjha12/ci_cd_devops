@@ -1,5 +1,21 @@
+@ linux_cmds
 mkdir --> to make new directory/folder
 cd    --> to go to the directory
 ls    --> to get to know all the files in the directory
 ls -a --> to know all the hidden files in the directory
 touch --> to touch create a new file in the directory
+vi (file_name_in_that_directory) --> to go into that file to change/edit anything
+cat (file_name_in_that_directory) --> to show file content
+
+
+
+
+@ github_cmds
+git init --> to intilize .git file in the directory, ehich is hidden
+git add . or git add (file_name_to_add) --> to add a new file in the git repository
+git commit -m "your message" -->  to commit the the change int repository, that we changed the thing and added small messages
+git status --> to check file details in the directory
+git log --> to see all commit history in the directory
+* git log contains all commits and each commit has its commit hash so commit hash is used to go back that position of project
+git reset [commit hash] --> to go back at that position of project when we commited this hash commited
+
