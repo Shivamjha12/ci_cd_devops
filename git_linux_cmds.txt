@@ -25,4 +25,6 @@ git stash clear --> to delete/clear the stash backup room data
 git branch [branch_name]  --> to create a new branch
 git checkout [branch_name] --> to checkout/open that branch
 git merge [branch_name] --> to merge [branch_name] to current branch
-
+git clone [repo_url] --> to copy the repo in our remote directory
+git remote add upstream [parent_repo_url from where we forked] --> this is when we add forked repo real repo_url
+git push origin [branch_name] -f --> when we don't have same commits as online github repo we use { -f } to forcely commit with new commit log
