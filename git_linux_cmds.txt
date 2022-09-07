@@ -25,4 +25,4 @@ git stash clear --> to delete/clear the stash backup room data
 git branch [branch_name]  --> to create a new branch
 git checkout [branch_name] --> to checkout/open that branch
 git merge [branch_name] --> to merge [branch_name] to current branch
-
+git remote add upstream [repository url] --> to add upstream url of forked branch in our account
